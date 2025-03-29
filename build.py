@@ -285,7 +285,7 @@ class FontConfig:
         if major.startswith("v"):
             major = major[1:]
 
-        self.version_str = f"Version {major}.{minor:03}"
+        self.version_str = f"Version {major}.{minor}"
 
     def __load_config(self, use_normal):
         try:
