@@ -1,0 +1,1 @@
+ python .\build.py --no-hinted --apply-fea-file --cn-both --ttf-only
