@@ -1,6 +1,6 @@
 {
   "$schema": "./source/schema.json",
-  "family_name": "Maple Mono 99",
+  "family_name": "MapleMono 99",
   "use_hinted": true,
   "pool_size": 4,
   "ligature": true,
